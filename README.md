@@ -7,7 +7,7 @@ After cloning this repo, do the following steps:
 cd ~/catkin_ws/src
 catkin_create_pkg Room_automation_service_bot rospy
 cd ..
-catkin build or catkin_make
+catkin build or catkin_make                   ## do any one of it
 source devel/setup.bash
 cd src/Room_automation_service_bot/
 ```
